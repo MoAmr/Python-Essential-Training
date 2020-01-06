@@ -1,2 +1,2 @@
 # Python Essential Training
-A comprehensive tutorials to learn Python Programming Language 
+A comprehensive tutorial to learn Python Programming Language. 
