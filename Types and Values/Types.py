@@ -16,3 +16,12 @@ print(type(var2))
 print(type(var3))
 print(type(var4))
 print(type(var5))
+
+# Note: x = 'seven' is equivalent to x = "seven" and x = '''seven''' and x = """seven"""
+
+a = 8
+b = 9
+# x = 'seven'.capitalize()
+x = f'seven {a:<09} {b:>09}'
+print('x is {}'.format(x))
+print(type(x))
