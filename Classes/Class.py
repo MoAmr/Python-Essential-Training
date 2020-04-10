@@ -1,5 +1,6 @@
 # A class is the basis ofall data in Python.
 
+
 class Duck:
     sound = 'Quack quack.'
     movement = 'Walks like a duck'
