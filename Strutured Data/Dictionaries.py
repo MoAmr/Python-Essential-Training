@@ -1,6 +1,6 @@
 # Dictionaries in Python.
 # Note: Python Dictionary type is a hashed key-value structure
-# Note: keys and values may be anytype, Keys must be immutables
+# Note: keys and values may be anytype, Keys must be immutable
 
 def main():
     animals = dict(kitten='mewo', puppy='ruff', lion='grrr',
